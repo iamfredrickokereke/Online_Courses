@@ -3,4 +3,4 @@ Modern html and css from beginning
 CS50
 C#in 60mins by traversy media
 C# by giraffe freecodecamp youtube channel
-C# by derek banas
+C# in one video # by derek banas
