@@ -4,3 +4,4 @@ CS50
 C#in 60mins by traversy media
 C# by giraffe freecodecamp youtube channel
 C# in one video # by derek banas
+C# gor absolute beginners
