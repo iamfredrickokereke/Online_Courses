@@ -15,4 +15,4 @@ Questpond
 Cleverprogrammer channel
 Derek banas YouTube
 MVA academy by bib Tabor
-Youtag Jeremy
+Youtube csharp course by Jeremy
